@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="3B87C9E2-7062-4D44-930A-290ED4FF870D.PNG" alt="Official AIIA Castle gold logo" width="280">
+</p>
+
 # AIIIA Castle 👑
 
 ### Learn • Evolve • Play to Earn
